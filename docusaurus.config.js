@@ -11,7 +11,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Aniview",
-  tagline: "Dinosaurs are cool",
+  tagline: "↓ Aprende a utilizar AniView ↓",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "GiovanniJMDev", // Usually your GitHub org/user name.
+  projectName: "AniView", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -76,10 +76,10 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My Site",
+        title: "AniView Docs",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "AniView Logo",
+          src: "img/Aniview_AI.jpg",
         },
         items: [
           {
@@ -90,7 +90,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/GiovanniJMDev/Aniview",
             label: "GitHub",
             position: "right",
           },
@@ -113,15 +113,15 @@ const config = {
             items: [
               {
                 label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                href: "https://stackoverflow.com/questions/tagged/aniview",
               },
               {
                 label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://discordapp.com/invite/aniview",
               },
               {
                 label: "X",
-                href: "https://x.com/docusaurus",
+                href: "https://x.com/aniview",
               },
             ],
           },
@@ -134,12 +134,12 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/GiovanniJMDev/Aniview",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AniVew.`,
       },
       prism: {
         theme: prismThemes.github,

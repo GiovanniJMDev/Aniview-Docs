@@ -25,7 +25,7 @@ Aquí encontrarás toda la información necesaria para comenzar a usar AniView d
 
 - [Registro y Login](../Configuration/LoginAndRegister) – Cómo crear una cuenta y acceder.
 - [Personalización del perfil](../Configuration/CustomizationProfile) – Ajustes para mejorar tu experiencia.
-- [Gestión de listas](../Configuration/ListManagement) – Cómo crear, editar y organizar listas de anime.
+- [Gestión de listas](../Configuration/ListManagement) – Cómo crear, editar y organizar animes en las listas.
 - [Chatbot de anime](../Configuration/Anibot) – Cómo interactuar con nuestro chatbot.
 - [Anipon (Gachapon)](../Configuration/Anipon) – Descubre animes de forma aleatoria y divertida.
 

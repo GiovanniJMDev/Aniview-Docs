@@ -7,14 +7,12 @@ sidebar_position: 2
 
 Puedes personalizar tu perfil en AniView para hacerlo único. Aquí te mostramos cómo:
 
-### Cambiar foto de perfil
-
-- Ve a la sección de **Configuración** y selecciona la opción **Perfil**.
-- Haz clic en **Cambiar foto** y selecciona la imagen desde tu dispositivo.
-
 ### Actualizar información
 
-- En la misma sección de **Perfil**, puedes actualizar tu nombre, biografía y otras preferencias.
-- Asegúrate de guardar los cambios al final.
+- Ve a la sección de **Profile** en la barra de navegación.
+    -![ProfilePrimerPaso](../docsImg/profileprimerpaso.png)
+- Haz clic en **Edit** y se te desbloquearan los campos de texto permitiendote modificar la información.
+    -![ProfileSegundoPaso](../docsImg/profilesegundopaso.png)
+    -![ProfileTercerPaso](../docsImg/profiletercerpaso.png)
 
 ¡Haz que tu perfil brille como un verdadero fanático del anime!

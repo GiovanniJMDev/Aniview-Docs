@@ -9,8 +9,10 @@ sidebar_position: 5
 
 ### ¿Cómo funciona Anipon?
 
-- Haz clic en el botón **Girar** en la sección Anipon para obtener una recomendación de anime aleatoria.
-- El sistema te mostrará un anime con su título, imagen y una breve descripción.
+- Primero debes de añadir tus generos de anime preferido.
+    - ![AniponPrimerPaso](../docsImg/aniponprimerpaso.png)
+- Le daremos al botón te buscar y el sistema te recomendará un anime con el genero o generos seleccionados en caso de que coincidan varios.
+    - ![AniponSegundoPaso](../docsImg/aniponsegundopaso.png)
 - Si te gusta, ¡agregalo a tu lista de "Viendo"! Si no, puedes volver a girar para obtener otro.
 
 ¡Es una manera divertida de descubrir nuevos animes!
