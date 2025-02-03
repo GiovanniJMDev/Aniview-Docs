@@ -79,7 +79,7 @@ const config = {
         title: "AniView Docs",
         logo: {
           alt: "AniView Logo",
-          src: "img/Aniview_AI.jpg",
+          src: "img/SimpleIconsAnilist.svg",
         },
         items: [
           {
