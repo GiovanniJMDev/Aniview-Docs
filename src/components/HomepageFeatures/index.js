@@ -4,32 +4,35 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    title: "📺 Explora el Mundo del Anime",
+    Svg: "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/08/one-piece_0.jpg?tf=1200x1200",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        AniView es la plataforma ideal para descubrir, organizar y gestionar tus
+        animes favoritos. Crea listas personalizadas, edita tu progreso y recibe
+        recomendaciones adaptadas a tus gustos.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "🤖 AniBot - Tu Chatbot de Anime",
+    Svg: require("@site/static/img/Aniview_AI.jpg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Habla con AniBot, un asistente inteligente especializado en anime.
+        Pídele recomendaciones, información sobre animes o simplemente charla
+        sobre tus series favoritas.
       </>
     ),
   },
   {
-    title: "Powered by React",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "🎰 Anipon - Gachapon de Anime",
+    Svg: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrarn_Ry-b-zG9-Xx1XitI_QYZQeCbtsyIA&s",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        ¿No sabes qué ver? Usa Anipon, nuestro sistema de gachapon, para recibir
+        sugerencias aleatorias basadas en tus géneros preferidos. ¡Gira y
+        descubre tu próximo anime favorito!
       </>
     ),
   },
@@ -39,7 +42,7 @@ function Feature({ Svg, title, description }) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img className={styles.featureSvg} src={Svg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

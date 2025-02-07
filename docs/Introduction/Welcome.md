@@ -31,4 +31,4 @@ Aquí encontrarás toda la información necesaria para comenzar a usar AniView d
 
 ## 🔍 ¿Necesitas ayuda?
 
-Si tienes dudas, consulta nuestra [sección de ayuda](./FirstsSteps/GetHelp) o visita nuestro [Discord](https://discord.gg/docusaurus) para soporte de la comunidad.
+Si tienes dudas, consulta nuestra [sección de ayuda](../FirstsSteps/GetHelp) o visita nuestro [Discord](https://discord.gg/docusaurus) para soporte de la comunidad.

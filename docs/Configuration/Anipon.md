@@ -3,16 +3,24 @@ title: Anipon (Gachapon)
 sidebar_position: 5
 ---
 
-# 🎰 Anipon (Gachapon)
+# 🎰 Anipon - El Gachapon de Anime
 
-¡Descubre animes de forma aleatoria con Anipon! Es nuestro sistema de gachapon que te ofrece recomendaciones de animes.
+¿No sabes qué anime ver? ¡Deja que el azar decida por ti con **Anipon**! Nuestro sistema de gachapon te recomienda animes de forma aleatoria según tus gustos.
 
-### ¿Cómo funciona Anipon?
+## 🎡 **¿Cómo funciona Anipon?**
 
-- Primero debes de añadir tus generos de anime preferido.
-    - ![AniponPrimerPaso](../docsImg/aniponprimerpaso.png)
-- Le daremos al botón te buscar y el sistema te recomendará un anime con el genero o generos seleccionados en caso de que coincidan varios.
-    - ![AniponSegundoPaso](../docsImg/aniponsegundopaso.png)
-- Si te gusta, ¡agregalo a tu lista de "Viendo"! Si no, puedes volver a girar para obtener otro.
+1. **Elige tus géneros favoritos**  
+   Selecciona los géneros de anime que más te gustan.
 
-¡Es una manera divertida de descubrir nuevos animes!
+   ![AniponPrimerPaso](../docsImg/aniponprimerpaso.png)
+
+2. **Gira el gachapon**  
+   Pulsa el botón de búsqueda y Anipon seleccionará un anime basado en tus géneros preferidos. Si hay varios coincidentes, elegirá uno al azar.
+
+   ![AniponSegundoPaso](../docsImg/AniponFoundAnime.png)
+
+3. **Decide qué hacer**
+   - Si el anime te interesa, agrégalo a tu lista de _"Viendo"_.
+   - Si no, ¡puedes volver a girar y probar suerte otra vez!
+
+🎭 **Anipon convierte la búsqueda de anime en una experiencia emocionante y divertida. ¡Descubre tu próxima serie favorita ahora!**

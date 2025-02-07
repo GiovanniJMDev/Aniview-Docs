@@ -48,25 +48,20 @@ const config = {
           editUrl:
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ["rss", "atom"],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          // Useful options to enforce blogging best practices
-          onInlineTags: "warn",
-          onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
-        },
         theme: {
           customCss: "./src/css/custom.css",
         },
       }),
+    ],
+  ],
+  plugins: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      {
+        hashed: true, // Para tener URLs amigables
+        language: ["es"], // Idiomas soportados
+        highlightSearchTermsOnTargetPage: true,
+      },
     ],
   ],
 
@@ -83,17 +78,16 @@ const config = {
         },
         items: [
           {
+            type: "search",
+            position: "right",
+          },
+          {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
             label: "Tutorial",
           },
-          { to: "/blog", label: "Blog", position: "left" },
-          {
-            href: "https://github.com/GiovanniJMDev/Aniview",
-            label: "GitHub",
-            position: "right",
-          },
+
         ],
       },
       footer: {
@@ -104,7 +98,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/docs/intro",
+                to: "/docs/Introduction/Welcome",
               },
             ],
           },

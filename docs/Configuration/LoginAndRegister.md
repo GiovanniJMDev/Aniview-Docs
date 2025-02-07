@@ -3,22 +3,47 @@ title: Registro y Login
 sidebar_position: 1
 ---
 
-# 📝 Registro y Login
+# 📝 Registro e Inicio de Sesión
 
-En AniView, puedes registrarte fácilmente y acceder a tu cuenta. Aquí te mostramos cómo hacerlo:
+Para aprovechar al máximo AniView, es importante que tengas una cuenta. Con tu cuenta podrás crear listas de animes, recibir recomendaciones personalizadas y acceder a todas las funciones de la plataforma. A continuación, te explicamos paso a paso cómo registrarte e iniciar sesión.
 
-### 1. Registro
+## 🔹 **1. Registro**
 
-- Al abrir la página esta te preguntara directamente por tus credenciales.
-    - ![RegisterPrimerPaso](../docsImg/registerprimerpaso.png)
-- En caso de no tener una cuenta creada puedes dirigirte al botón de "Register".
-    - ![RegisterSegundoPaso](../docsImg/registersegundopaso.png)
-- Una vez abierto el formulario de registro solo restaría rellenarlo con tus datos.
-    - ![RegisterTercerPaso](../docsImg/registertercerpaso.png)
+Si eres nuevo en AniView, sigue estos pasos para crear tu cuenta:
 
-### 2. Login
+1. **Accede a la página principal**  
+   Al abrir AniView por primera vez, se te pedirá que introduzcas tus credenciales para iniciar sesión.
 
-- En caso de ya poseer una cuenta en AniView al abrir la página se te preguntara por tus credenciales, simplemente rellana el formulario.
-    - ![LoginPrimerPaso](../docsImg/loginprimerpaso.png)
-- O si te es más cómodo puedes iniciar sesion con cualquiera de las otras opciones posibles.
-    - ![LoginSegundoPaso](../docsImg/loginsegundopaso.png)
+   ![RegisterPrimerPaso](../docsImg/registerprimerpaso.png)
+
+2. **Crear una cuenta nueva**  
+   Si aún no tienes una cuenta, haz clic en el botón **"Register"** para comenzar el proceso de registro.
+
+   ![RegisterSegundoPaso](../docsImg/registersegundopaso.png)
+
+3. **Rellenar el formulario de registro**  
+   Se abrirá un formulario donde deberás ingresar información como tu nombre de usuario, correo electrónico y contraseña. Asegúrate de utilizar un correo válido, ya que podrías necesitar confirmarlo más adelante.
+
+   ![RegisterTercerPaso](../docsImg/registertercerpaso.png)
+
+4. **Finalizar el registro**  
+   Una vez completados los campos, confirma tu registro. En algunos casos, podrías recibir un correo de verificación para activar tu cuenta.
+
+## 🔹 **2. Inicio de Sesión**
+
+Si ya tienes una cuenta en AniView, iniciar sesión es muy sencillo:
+
+1. **Accede con tu cuenta**  
+   En la pantalla de inicio, introduce tu correo electrónico y contraseña para ingresar.
+
+   ![LoginPrimerPaso](../docsImg/loginprimerpaso.png)
+
+2. **Opciones de acceso alternativas**  
+   Si prefieres, también puedes iniciar sesión mediante otras opciones disponibles, como redes sociales o cuentas vinculadas.
+
+   ![LoginSegundoPaso](../docsImg/loginsegundopaso.png)
+
+3. **¿Olvidaste tu contraseña?**  
+   Si tienes problemas para acceder, puedes utilizar la opción de **"Recuperar contraseña"** para restablecer tu acceso a la cuenta.
+
+✨ **¡Una vez dentro, ya puedes explorar AniView y disfrutar de todo su contenido!**
